@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-permalink: /contact/
+permalink: /contact
 ---
 If you have my email or phone number, you can contact me there.
 

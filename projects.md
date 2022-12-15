@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-css: ./assets/css/projects.css
+permalink: /projects
 ---
 ## Ongoing
 
