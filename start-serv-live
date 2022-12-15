@@ -1,0 +1,5 @@
+# Used to run local server for website testing
+
+#!/usr/bin/bash
+
+bundle exec jekyll s --livereload
