@@ -22,7 +22,7 @@ permalink: /projects
   
   [Watch](https://github.com/ismaeltovar/awesome-school-calc/subscription) [Fork](https://github.com/ismaeltovar/awesome-school-calc/fork)
   
-### [React Battleship](https://github.com/ismaeltovar/react-battleship/subscription)
+### [React Battleship](https://github.com/ismaeltovar/react-battleship)
   Battleship on the web created using React.js and SASS.
   
   [Watch](https://github.com/ismaeltovar/react-battleship/subscription) [Fork](https://github.com/ismaeltovar/react-battleship/fork)
