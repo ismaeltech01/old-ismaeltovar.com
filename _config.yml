@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title:  Ismael Tovar
+title: "Ismael Tovar"
 author:
-  name: Copyright © 2023 Ismael Tovar
-# email: 
+  name: "Ismael Tovar"
+#  email: email
 description: >- # this means to ignore newlines until "baseurl:"
   Learning about the world using technology and curiosity.
 baseurl:  "" # the subpath of your site, e.g. /blog
-url:  "www.ismaeltovar.com" # the base hostname & protocol for your site, e.g. http://example.com
+url:  "https://ismaeltovar.com" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: "/assets/icon/earth.png"
 
 # Build settings
@@ -41,7 +41,10 @@ minima:
     - { platform: stackoverflow, user_url: "https://stackoverflow.com/users/15854236/ismaelt01" }
     - { platform: linkedin,  user_url: "https://www.linkedin.com/in/ismael-tovar/" }
     - { platform: medium, user_url: "https://medium.com/@ismaeltovar", title: "Medium profile" }
-    # - { platform: medium, user_url: "https://medium.com/@ismaeltovar" }
+    - { platform: twitter, user_url: "https://twitter.com/ismaeltovar01"}
+
+feed:
+  path: /feed.xml
 
 # Exclude from processing.
 # The following items will not be processed, by default.
