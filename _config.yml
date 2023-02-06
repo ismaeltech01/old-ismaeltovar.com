@@ -25,7 +25,7 @@ author:
 description: >- # this means to ignore newlines until "baseurl:"
   Learning about the world using technology and curiosity.
 baseurl:  "" # the subpath of your site, e.g. /blog
-url:  "www.ismaeltovar.com" # the base hostname & protocol for your site, e.g. http://example.com
+url:  "https://ismaeltovar.com" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: "/assets/icon/earth.png"
 
 # Build settings
@@ -40,8 +40,11 @@ minima:
     - { platform: github,  user_url: "https://github.com/ismaeltovar" }
     - { platform: stackoverflow, user_url: "https://stackoverflow.com/users/15854236/ismaelt01" }
     - { platform: linkedin,  user_url: "https://www.linkedin.com/in/ismael-tovar/" }
+    - { platform: twitter, user_url: "https://twitter.com/ismaeltovar01" }
     - { platform: medium, user_url: "https://medium.com/@ismaeltovar", title: "Medium profile" }
-    # - { platform: medium, user_url: "https://medium.com/@ismaeltovar" }
+
+feed:
+  path: /feed.xml
 
 # Exclude from processing.
 # The following items will not be processed, by default.
