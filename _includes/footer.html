@@ -15,7 +15,7 @@
         {%- if site.author %}
           <ul class="contact-list">
             {% if site.author.name -%}
-              <li class="p-name">Copyright &#169 2023 {{ site.author.name | escape }}</li>
+              <li class="p-name">{{ site.author.name | escape }}</li>
             {% endif -%}
             {% if site.author.email -%}
               <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
@@ -32,9 +32,9 @@
         {%- include social.html -%}
       </div>
 
-      <!-- <div class="copyright">
-        
-      </div> -->
+      <div class="copyright" style="text-align: center;">
+        Copyright &#169 2023
+      </div>
 
     </div>
   
