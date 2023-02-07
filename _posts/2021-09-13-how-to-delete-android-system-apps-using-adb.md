@@ -3,11 +3,15 @@ layout: post
 title: "How to delete Android system apps and bloatware using ADB (No Root)"
 thumbnail-img: /assets/img/2021-09-13/phone.jpg
 date: 2021-09-13
-last-updated: 2021-09-14
+modified_date: 2023-2-7
 tags: android adb
 ---
 
 Ah, bloatware. Don't you just love not being able to remove apps that you don't want? Sure you can disable the apps, but what if you want to remove them completely from your phone? Fortunately, there is a way to uninstall apps from android using Android Debugging Bridge (ADB), which is a development tool provided by Google. Read on and I will show you how you can remove Facebook from your device (No joke, my phone came pre-packaged with facebook).
+
+## * *Important Update* *
+
+After reading this [reddit post](https://www.reddit.com/r/androidapps/comments/tz3ky4/uninstalling_bloatware_via_adb_shell/), it seems that I looked over an important nuance. When I refer to uninstalling an app in this article, I really mean *disabling* the app for a user on the device. This method will work if you want a simple way around uninstalling apps. However, if you wish to completely remove apps from your android device, you will likely need to root your phone, which is beyond the scope of this article.
 
 ## Before you start...
 

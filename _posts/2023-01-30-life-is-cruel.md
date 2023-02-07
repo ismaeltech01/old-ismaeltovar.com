@@ -4,6 +4,7 @@ title: "Life is cruel"
 date: 2023-1-30
 last-updated: 
 tags: life poem
+comments: true
 ---
 Sometimes a simple mix of words can help give you a bit of hope during rough times. Here's a very small poem I came up with:
 

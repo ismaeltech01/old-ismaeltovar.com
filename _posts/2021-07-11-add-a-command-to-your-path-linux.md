@@ -4,7 +4,7 @@ title: "How to add a directory to your PATH on Linux"
 thumbnail-img: /assets/img/2021-07-11/console.png
 cover-img: 
 date: 2021-07-11
-last-updated: 2021-09-13
+modified_date: 2021-09-13
 tags: linux bash
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: "How to add the Chart.js library to your React project"
 thumbnail-img: /assets/img/2021-10-03/charts.png
 date: 2021-10-03
-last-updated: 2021-12-29
+modified_date: 2021-12-29
 tags: reactjs chartjs javascript programming
 ---
 

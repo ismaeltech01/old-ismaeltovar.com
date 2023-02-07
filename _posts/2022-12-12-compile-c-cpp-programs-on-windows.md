@@ -4,6 +4,7 @@ title: "A simple way to compile and run C/C++ programs on Windows"
 date: 2022-12-12
 last-updated: 
 tags: linux windows bash c/c++
+comments: true
 ---
 A couple of weeks ago I broke my Linux installation on my computer because I downgraded to an older version of `valgrind`. Since I did not find a solution promptly and I had homework assignments to complete, I decided to work on my Windows installation in the meantime. Although I could complete my assignments on a virtual machine running Ubuntu, I wondered if there was a better way to go about the compilation and running of C/C++ programs on Windows locally. I had heard about [MinGW](https://www.mingw-w64.org/) in class, but I wanted to see if there was anything online with more Linux package support available. I eventually stumbled upon [Cygwin](https://www.cygwin.com/). Although it did take longer to compile code, it was not significant enough to deteriorate my workflow. However, `valgrind` was not available for Cygwin, which still prompted me to boot up a virtual machine now and then whenever the infamous segmentation faults came to say hi. I wondered if there was yet another way to compile C/C++ almost as if I were on Linux. Because I did not find a solution in the limited time I had, I stuck to working with Cygwin and a Virtual Machine to get through the semester. 
 

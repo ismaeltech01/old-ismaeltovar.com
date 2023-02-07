@@ -4,7 +4,7 @@ title: "How to make a virtual machine with VirtualBox"
 thumbnail-img: /assets/img/2021-08-05/motherboard.jpg
 cover-img:
 date: 2021-08-05
-last-updated: 2021-09-13
+modified_date: 2021-09-13
 tags: linux virtualbox
 ---
 
