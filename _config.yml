@@ -42,7 +42,6 @@ minima:
     - { platform: linkedin,  user_url: "https://www.linkedin.com/in/ismael-tovar/" }
     - { platform: medium, user_url: "https://medium.com/@ismaeltovar", title: "Medium profile" }
     - { platform: twitter, user_url: "https://twitter.com/ismaeltovar01"}
-    # - { platform: spotify, user_url: "https://twitter.com/ismaeltovar01"}
 
 feed:
   path: /feed.xml
