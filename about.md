@@ -12,6 +12,11 @@ To contact me, [click here](https://ismaeltovar.com/contact/).
 
 ## More info about me
 
+Kaggle profile: [ismaeltovar](https://www.kaggle.com/ismaeltovar)
+
+Leetcode profile: [ismaeltovar](https://leetcode.com/ismaeltovar/)
+<br/>
+
 Favorite software:
 - IDE: [Visual Studio Code](https://code.visualstudio.com/)
 - Flash Card App: [Anki](https://apps.ankiweb.net/)
