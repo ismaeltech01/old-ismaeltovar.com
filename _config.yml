@@ -24,8 +24,8 @@ author:
 #  email: email
 description: >- # this means to ignore newlines until "baseurl:"
   Learning about the world using technology and curiosity.
-baseurl:  "" # the subpath of your site, e.g. /blog
-url:  "https://ismaeltovar.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl:  "/old-ismaeltovar" # the subpath of your site, e.g. /blog
+url:  "https://ismaeltovar.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: "/assets/icon/earth.png"
 
 # Build settings
